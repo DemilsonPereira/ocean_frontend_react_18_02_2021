@@ -1,5 +1,5 @@
 # Criando um Aplicativo Jogo da velha
-Crie aplicativos React sem configuração de construção.
+Aplicativo com React
 
 ## Available Scripts
 
