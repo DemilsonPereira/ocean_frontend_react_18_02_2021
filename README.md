@@ -1,5 +1,4 @@
-# Getting Started with Create React App
-
+# Criando um Aplicativo Jogo da velha
 Crie aplicativos React sem configuração de construção.
 
 ## Available Scripts
